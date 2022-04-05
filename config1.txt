@@ -1,0 +1,6 @@
+{
+  "USERID": "mary@hku.hk",
+  "NICKNAME": "Mary",
+  "SERVER": "127.0.0.1",
+  "SERVER_PORT": 32349
+}
